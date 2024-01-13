@@ -13,9 +13,9 @@ In total, I scraped 29950 Questions.
 # Data Preprocessing
 
 # Model Training
-Finetuned a distilrobera-base model from HuggingFace Transformers using Fastai and Blurr. The model training notebook can be viewed [HERE](notebooks/text_classifiction_blurr.ipynb)
+Finetuned a distilrobera-base model from HuggingFace Transformers using Fastai and Blurr. The model training notebook can be viewed [Here](notebooks/text_classifiction_blurr.ipynb)
 
 # Model Compression and ONNX Inference
 
 # Model Deployment
-The compressed model is deployed to HuggingFace Spaces Gradio App. The implementation can be found in deployment folder or [Here](Sadihsn/StackOverflow_Question_Classifier)
+The compressed model is deployed to HuggingFace Spaces Gradio App. The implementation can be found in deployment folder or [Here](https://huggingface.co/spaces/Sadihsn/StackOverflow_Question_Classifier)
