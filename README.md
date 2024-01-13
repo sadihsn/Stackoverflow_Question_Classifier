@@ -6,7 +6,7 @@ The model can classify different types of Stackoverflow Question Tags
 
 # Data Collection
 Data was collected from  Stackoverflow Website:https://stackoverflow.com/
-The data collection process was done in one single step:scraper/scraper.py and then stored in a csv file data/Stack_Overflow_data.csv.
+The data collection process was done in one single step:`scraper/scraper.py` and then stored in a csv file `data/Stack_Overflow_data.csv`.
 
 In total, I scraped 29950 Questions.
 
